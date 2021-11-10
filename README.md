@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ashen Bandara
 #### Developer | Blockchain Enthusiast
-![Developer | Blockchain Enthusiast](https://github.com/Ashen2295/Ashen2295/blob/main/0dd6428bd53b636e20066af19a766387.png)
+![Developer | Blockchain Enthusiast]
 
 
 Skills: JAVASCRIPT / DOCKER / REACT.JS / HTML / CSS / MYSQL
